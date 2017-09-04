@@ -6,5 +6,8 @@ Input is a file consisting of lines(e.g. grades/files/grades.txt), each line con
 
 In the line the grade is in two characters at position 87-88 and the date is position 40-47. And possible error messages can be written in position 101-150.
 
+### Prerequisite
+Go (https://golang.org)
+
 ### Todo
 Write to output file
